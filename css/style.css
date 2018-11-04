@@ -2,6 +2,11 @@ body {
   background-color: #D1ECE8;
 }
 
+.container {
+  background-color: #e8d1ec;
+  margin-top: 100px;
+}
+
 .antiBullying {
   /* Place css here for the anti-bullying button */
   background-color: #008CBA;
