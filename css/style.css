@@ -7,6 +7,10 @@ body {
   background-color: #e8d1ec;
   margin-top: 100px;
   height: auto;
+  position:fixed;
+  top: 20px;
+  bottom:70px;
+  margin: 70px;
 }
 
 .antiBullying {
