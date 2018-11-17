@@ -1,5 +1,11 @@
 body {
-  background-color: #D1ECE8;
+  background-color: violet;
+  font-family: "Vintage", helvetica sans-serif;
+  margin: 2em;
+}
+h1 {
+  font-style: italic;
+  color: #373fff;
 }
 
 .container {
